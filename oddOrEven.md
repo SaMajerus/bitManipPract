@@ -1,0 +1,1 @@
+If the last bit of a number's binary representation is '1', the number is Odd. Otherwise, it is Even.
