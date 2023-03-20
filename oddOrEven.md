@@ -1,1 +1,2 @@
-If the last bit of a number's binary representation is '1', the number is Odd. Otherwise, it is Even.
+If the last bit of a number's binary representation is '1', the number is Odd. Otherwise, it is Even. 
+(My solution to 'Even or Odd' exercise is in the file 'src/isOdd.js'.  Test suite proving that it works is located in '__tests__/isOdd.test.js'.) 
